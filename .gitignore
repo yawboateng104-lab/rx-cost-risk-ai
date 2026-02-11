@@ -4,3 +4,20 @@ __pycache__/
 *.pkl
 .DS_Store
 
+# Data
+*.csv
+*.zip
+*.parquet
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
